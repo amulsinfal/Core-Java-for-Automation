@@ -15,10 +15,10 @@ public class Addition {
 		String res4 = msg + f1; // concatenation and result will be String
 
 		
-		System.out.println("res1 = " + res1); 
-		System.out.println("res2 = " + res2);
-		System.out.println("res3 = " + res3);
-		System.out.println("res4 = " + res4);
+			System.out.println("res1 = " + res1); 
+			System.out.println("res2 = " + res2);
+			System.out.println("res3 = " + res3);
+			System.out.println("res4 = " + res4);
 		
 	}
 }
